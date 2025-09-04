@@ -51,5 +51,15 @@ Final         │
 ↓             │
 Launch        │
 
+| Backlog Item                         | User Story Link | Priority | Owner                 | Estimated Effort (hrs) | Sprint Goal / Notes                   | Status  |
+| ------------------------------------ | --------------- | -------- | --------------------- | ---------------------- | ------------------------------------- | ------- |
+| Acquire land for the factory         | #US-01          | High     | Product Owner / Legal | 12                     | Secure deed and zoning approval       | ☐ To Do |
+| Design ecological fuel plant layout  | #US-02          | High     | Engineer Lead         | 20                     | Complete base drawings & process flow | ☐ To Do |
+| Set up employee housing plan         | #US-03          | High     | HR & Facilities       | 16                     | Draft housing allocation policy       | ☐ To Do |
+| Plan grocery & healthcare facilities | #US-04          | Medium   | Ops Manager           | 10                     | Identify vendors and service model    | ☐ To Do |
+| Establish sustainability guidelines  | #US-05          | Medium   | Sustainability Lead   | 8                      | Draft policies for energy & waste     | ☐ To Do |
+| Recruit initial staff                | #US-06          | Medium   | HR                    | 14                     | Define roles & begin hiring           | ☐ To Do |
+
+
 
 
