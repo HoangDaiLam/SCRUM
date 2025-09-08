@@ -1,64 +1,63 @@
-CRAZY-SCRUM
 # CRAZY SCRUM
+## SCRUM Roles
+Product Owner/ Customer: Dai Lam Hoang
+Scrum Master: Christofer Rostedt
+Dev Team: Praful Sharma
 
 # Plans
 
-### 🗂 Summary Table: System Components & Workflow
+### Summary Table: Map label
 
-| *Label*         | *Meaning / Role*                     | *Connected To*                  | *Notes*                          |
-|------------------|----------------------------------------|-----------------------------------|------------------------------------|
-| N.H / S.H        | Northern & Southern Hemisphere zones   | Entire system                     | Divides the infrastructure map     |
-| Enter / Super    | Entry points or control hubs           | Factories, Utilities              | Possibly access or command centers |
-| F (Factories)    | Industrial production (Conad)          | Electricity, Sewage               | Central to resource generation     |
-| Electric Sewage  | Utility management system              | Sewage Pipes, Electricity Grid    | Handles dual infrastructure        |
-| Electricity      | Power source/distribution              | Factories, Storage Pipes          | Essential for operations           |
-| Sewage           | Waste management system                | Sewage Pipes                      | Infrastructure for sanitation      |
-| Storage Pipes    | Resource storage and flow              | Electricity, Sewage               | Possibly for backup or overflow    |
-| Legend (Nh, Sm…) | Symbol key for system elements         | Entire diagram                    | Helps decode icons and flow        |
+| *Label*          | *Meaning / Role*                     | *Connected To*                 | *Notes*                            |
+| ---------------- | ------------------------------------ | ------------------------------ | ---------------------------------- |
+| N.H / S.H        | Northern & Southern Hemisphere zones | Entire system                  | Divides the infrastructure map     |
+| Enter / Super    | Entry points or control hubs         | Factories, Utilities           | Possibly access or command centers |
+| F (Factories)    | Industrial production (Conad)        | Electricity, Sewage            | Central to resource generation     |
+| Electric Sewage  | Utility management system            | Sewage Pipes, Electricity Grid | Handles dual infrastructure        |
+| Electricity      | Power source/distribution            | Factories, Storage Pipes       | Essential for operations           |
+| Sewage           | Waste management system              | Sewage Pipes                   | Infrastructure for sanitation      |
+| Storage Pipes    | Resource storage and flow            | Electricity, Sewage            | Possibly for backup or overflow    |
+| Legend (Nh, Sm…) | Symbol key for system elements       | Entire diagram                 | Helps decode icons and flow        |
 
----
+## User story
+factories, hospitals, housing everything within 1-2 kms
 
-### 📊 Big Chart: Project Planning & Development Workflow
+the schools, supermarkets, entertainments centers, Banks, Electricity center, sewage management.
 
-plaintext
-Week 1: Planning & Ideas
-┌────────────┐
-│  Sprint 1  │
-└────┬───────┘
-     ↓
-┌────────────┐
-│Development │
-└────┬───────┘
-     ↓
-┌────────────┐
-│   Review   │
-└─┬────┬─────┘
-  │    │
-  ↓    ↓
-Yes   No
-│     │
-↓     ↓
-Sprint 2 ←────┐
-│             │
-↓             │
-Development   │
-↓             │
-Review        │
-↓             │
-Sprint 3      │
-↓             │
-Final         │
-↓             │
-Launch        │
+wanted to make everything in 12 weeks - the length of the actual project.
 
-| Backlog Item                         | User Story Link | Priority | Owner                 | Estimated Effort (hrs) | Sprint Goal / Notes                   | Status  |
-| ------------------------------------ | --------------- | -------- | --------------------- | ---------------------- | ------------------------------------- | ------- |
-| Acquire land for the factory         | #US-01          | High     | Product Owner / Legal | 12                     | Secure deed and zoning approval       | ☐ To Do |
-| Design ecological fuel plant layout  | #US-02          | High     | Engineer Lead         | 20                     | Complete base drawings & process flow | ☐ To Do |
-| Set up employee housing plan         | #US-03          | High     | HR & Facilities       | 16                     | Draft housing allocation policy       | ☐ To Do |
-| Plan grocery & healthcare facilities | #US-04          | Medium   | Ops Manager           | 10                     | Identify vendors and service model    | ☐ To Do |
-| Establish sustainability guidelines  | #US-05          | Medium   | Sustainability Lead   | 8                      | Draft policies for energy & waste     | ☐ To Do |
-| Recruit initial staff                | #US-06          | Medium   | HR                    | 14                     | Define roles & begin hiring           | ☐ To Do |
+*The company is committed to sustainability. They wanted work and living environment to be as ecologically sustainable as possible. They believed that a green, self-sufficient community would not only attract employees but also ensure they stayed happy and healthy*
+
+
+
+## Customer idea
+- All in one Card: for everything that includes bank card, door key, car key.
+- Have a spare key <- some way to recover key
+- Everything technologically enhanced
+- School doors to car door everything accessed with one key
+- Main server in the factory; middle of the civilization
+- Server controls and stores every data including who has access to which part of the city
+- Saves data mainly in cloud.
+### initial concept
+![[image/Initial idea.png]]
+
+## Initial Planning
+
+|  Week   | Sprint | Goals                                                                                                                                                                            |
+| :-----: | :----: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|    1    |   1    | Define project scope and initial features based on customer idea<br>- Sprint planning<br>- Assign development roles                                                              |
+|  2 - 3  |   1    | Sprint #1 starts and assigned tasks.<br>- Development of core features<br>- Documentations<br>- Daily checkup                                                                    |
+|    4    |  1/2   | 1st drafts to customer and feedback. <br>Rest of the week:<br>- Sprint Review<br>- Backlog<br>- Planning Sprint #2 based on customer needs and feedback                          |
+|  5 - 6  |   2    | Sprint #2 starts and assigned tasks based on user feedback<br>- Changes to core features<br>- Development of new features<br>- Bug fixing<br>- Documentations<br>- Daily checkup |
+|    7    |  2/3   | 2nd draft - " -.<br>Rest of the week:<br>- Sprint Review<br>- Backlog<br>- Planning of Sprint #3 - " -                                                                           |
+|  8 - 9  |   3    | Sprint #3 starts - " -<br>- Changes to core features<br>- Development of new features<br>- Bug fixing<br>- Documentations<br>- Daily checkup                                     |
+|   10    |  3/4   | 3nd draft - " -<br>Rest of the week:<br>- Sprint Review<br>- Backlog<br>- Planning of Sprint #4 - " -                                                                            |
+| 11 - 12 |   4    | Sprint #4 starts<br>- Final changes and fixes to any remaining issues<br>- Testing<br>- Bugfixes<br>- Documentation updates<br>- Prepare for deployment                          |
+
+# Sprint #1
+## 
+# Customer Backlog #1
+
 
 
 
