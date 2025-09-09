@@ -81,3 +81,7 @@ Universal access card application. Main feature is you can access any facilties 
 # Sprint #4
 ## Backlog #4
 Sprint #4 is planned for minor changes, bug fixes, and finalisation in preparation for deployment.
+![](https://github.com/HoangDaiLam/SCRUM/blob/main/images/mainpage.png?raw=true)
+![](https://github.com/HoangDaiLam/SCRUM/blob/main/images/cardpage.png?raw=true)
+![](https://github.com/HoangDaiLam/SCRUM/blob/main/images/mainpage.png?raw=true)
+![](https://github.com/HoangDaiLam/SCRUM/blob/main/images/rewardprogram.png?raw=true)
