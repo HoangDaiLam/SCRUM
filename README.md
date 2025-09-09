@@ -1,7 +1,7 @@
 # CRAZY SCRUM
 ## SCRUM Roles
-Product Owner/ Customer: Dai Lam Hoang
-Scrum Master: Christofer Rostedt
+Product Owner/ Customer: Dai Lam Hoang<br>
+Scrum Master: Christofer Rostedt<br>
 Dev Team: Praful Sharma
 
 # Initial Plans
@@ -18,6 +18,8 @@ Dev Team: Praful Sharma
 | Sewage           | Waste management system              | Sewage Pipes                   | Infrastructure for sanitation      |
 | Storage Pipes    | Resource storage and flow            | Electricity, Sewage            | Possibly for backup or overflow    |
 | Legend (Nh, Sm…) | Symbol key for system elements       | Entire diagram                 | Helps decode icons and flow        |
+
+![CityMap](https://github.com/HoangDaiLam/SCRUM/blob/main/images/v3.jpg?raw=true)
 
 ### User story
 factories, hospitals, housing everything within 1-2 kms
@@ -36,7 +38,7 @@ User wants a database where any citizen can access any information and facilitie
 - Saves data mainly in cloud.
 
 ### initial concept
-!![[Initial idea.png]]
+![v0](https://github.com/HoangDaiLam/SCRUM/blob/main/images/v0.jpg?raw=true)
 
 ### Initial Planning
 
@@ -79,4 +81,3 @@ Universal access card application. Main feature is you can access any facilties 
 # Sprint #4
 ## Backlog #4
 Sprint #4 is planned for minor changes, bug fixes, and finalisation in preparation for deployment.
-![v4](https://github.com/HoangDaiLam/SCRUM/blob/main/images/v4.jpeg?raw=true)
