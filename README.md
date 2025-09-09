@@ -19,7 +19,7 @@ Dev Team: Praful Sharma
 | Storage Pipes    | Resource storage and flow            | Electricity, Sewage            | Possibly for backup or overflow    |
 | Legend (Nh, Sm…) | Symbol key for system elements       | Entire diagram                 | Helps decode icons and flow        |
 
-![CityMap](https://github.com/HoangDaiLam/SCRUM/blob/main/images/v3.jpg?raw=true)
+![CityMap](https://github.com/HoangDaiLam/SCRUM/blob/main/images/City.jpg?raw=true)
 
 ### User story
 factories, hospitals, housing everything within 1-2 kms
@@ -38,7 +38,7 @@ User wants a database where any citizen can access any information and facilitie
 - Saves data mainly in cloud.
 
 ### initial concept
-![v0](https://github.com/HoangDaiLam/SCRUM/blob/main/images/city.jpg?raw=true)
+![v0](https://github.com/HoangDaiLam/SCRUM/blob/main/images/v0.jpg?raw=true)
 
 ### Initial Planning
 
