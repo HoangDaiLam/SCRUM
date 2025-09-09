@@ -38,7 +38,7 @@ User wants a database where any citizen can access any information and facilitie
 - Saves data mainly in cloud.
 
 ### initial concept
-![v0](https://github.com/HoangDaiLam/SCRUM/blob/main/images/v0.jpg?raw=true)
+![v0](https://github.com/HoangDaiLam/SCRUM/blob/main/images/city.jpg?raw=true)
 
 ### Initial Planning
 
