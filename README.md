@@ -4,7 +4,7 @@ Product Owner/ Customer: Dai Lam Hoang
 Scrum Master: Christofer Rostedt
 Dev Team: Praful Sharma
 
-# Plans
+# Initial Plans
 
 ### Summary Table: Map label
 
@@ -19,29 +19,26 @@ Dev Team: Praful Sharma
 | Storage Pipes    | Resource storage and flow            | Electricity, Sewage            | Possibly for backup or overflow    |
 | Legend (Nh, Sm…) | Symbol key for system elements       | Entire diagram                 | Helps decode icons and flow        |
 
-## User story
+### User story
 factories, hospitals, housing everything within 1-2 kms
-
 the schools, supermarkets, entertainments centers, Banks, Electricity center, sewage management.
-
 wanted to make everything in 12 weeks - the length of the actual project.
-
+User wants a database where any citizen can access any information and facilities
 *The company is committed to sustainability. They wanted work and living environment to be as ecologically sustainable as possible. They believed that a green, self-sufficient community would not only attract employees but also ensure they stayed happy and healthy*
 
-
-
-## Customer idea
-- All in one Card: for everything that includes bank card, door key, car key.
+### Customer idea
+- All in one Card: for everything that includes bank card, door key.
 - Have a spare key <- some way to recover key
 - Everything technologically enhanced
 - School doors to car door everything accessed with one key
 - Main server in the factory; middle of the civilization
 - Server controls and stores every data including who has access to which part of the city
 - Saves data mainly in cloud.
-### initial concept
-![[image/Initial idea.png]]
 
-## Initial Planning
+### initial concept
+!![[Initial idea.png]]
+
+### Initial Planning
 
 |  Week   | Sprint | Goals                                                                                                                                                                            |
 | :-----: | :----: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -55,10 +52,31 @@ wanted to make everything in 12 weeks - the length of the actual project.
 | 11 - 12 |   4    | Sprint #4 starts<br>- Final changes and fixes to any remaining issues<br>- Testing<br>- Bugfixes<br>- Documentation updates<br>- Prepare for deployment                          |
 
 # Sprint #1
-## 
-# Customer Backlog #1
+## Backlog #1
+Universal access card application. Main feature is you can access any facilties using the said app. 
+- encourage a more connected society
+- a city map with AI assistant to show avaliable service
+- Has time table (e.g. work schedul, meetings) in one of the widget.
+![v1](https://github.com/HoangDaiLam/SCRUM/blob/main/images/v1.jpeg)
 
+# Sprint #2
+## Backlog #2
+- ID picture. Below that it shows the work place and position. (teacher, boss, chocolate maker)
+- Side panel for extra info. (e.g. version update changes)
+- Add rewards programs that encourages people to recycle (in widget section).
+![v2](https://github.com/HoangDaiLam/SCRUM/blob/main/images/v2.jpeg)
 
+# Sprint #3
+## Backlog #3
+- Simplified user interface
+- Greeting page
+- Accessibility options
+- Card desgin changes depending on user position
+- Events wigets and notifications
+- Bug report / feedback function
+![v3](https://github.com/HoangDaiLam/SCRUM/blob/main/images/v3.jpeg)
 
-
-
+# Sprint #4
+## Backlog #4
+Sprint #4 is planned for minor changes, bug fixes, and finalisation in preparation for deployment.
+![v4](https://github.com/HoangDaiLam/SCRUM/blob/main/images/v4.jpeg)
