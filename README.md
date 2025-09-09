@@ -1,4 +1,4 @@
-# CRAZY SCRUM
+# SCRUM
 ## SCRUM Roles
 Product Owner/ Customer: Dai Lam Hoang<br>
 Scrum Master: Christofer Rostedt<br>
