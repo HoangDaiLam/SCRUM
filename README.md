@@ -27,6 +27,7 @@ the schools, supermarkets, entertainments centers, Banks, Electricity center, se
 wanted to make everything in 12 weeks - the length of the actual project.
 User wants a database where any citizen can access any information and facilities
 *The company is committed to sustainability. They wanted work and living environment to be as ecologically sustainable as possible. They believed that a green, self-sufficient community would not only attract employees but also ensure they stayed happy and healthy*
+![Chat1](https://github.com/HoangDaiLam/SCRUM/blob/main/images/Chat1.png.jpg?raw=true)
 
 ### Product Owner idea
 - All in one Card: for everything that includes bank card, door key.
