@@ -57,14 +57,14 @@ Universal access card application. Main feature is you can access any facilties 
 - encourage a more connected society
 - a city map with AI assistant to show avaliable service
 - Has time table (e.g. work schedul, meetings) in one of the widget.
-![v1](https://github.com/HoangDaiLam/SCRUM/blob/main/images/v1.jpeg)
+![v1](https://github.com/HoangDaiLam/SCRUM/blob/main/images/v0.jpg?raw=true)
 
 # Sprint #2
 ## Backlog #2
 - ID picture. Below that it shows the work place and position. (teacher, boss, chocolate maker)
 - Side panel for extra info. (e.g. version update changes)
 - Add rewards programs that encourages people to recycle (in widget section).
-![v2](https://github.com/HoangDaiLam/SCRUM/blob/main/images/v2.jpeg)
+![v2](https://github.com/HoangDaiLam/SCRUM/blob/main/images/v2.jpeg?raw=true)
 
 # Sprint #3
 ## Backlog #3
@@ -74,9 +74,9 @@ Universal access card application. Main feature is you can access any facilties 
 - Card desgin changes depending on user position
 - Events wigets and notifications
 - Bug report / feedback function
-![v3](https://github.com/HoangDaiLam/SCRUM/blob/main/images/v3.jpeg)
+![v3](https://github.com/HoangDaiLam/SCRUM/blob/main/images/v3.jpeg?raw=true)
 
 # Sprint #4
 ## Backlog #4
 Sprint #4 is planned for minor changes, bug fixes, and finalisation in preparation for deployment.
-![v4](https://github.com/HoangDaiLam/SCRUM/blob/main/images/v4.jpeg)
+![v4](https://github.com/HoangDaiLam/SCRUM/blob/main/images/v4.jpeg?raw=true)
